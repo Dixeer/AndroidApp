@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MojaAplikacja</string>
+    <string name="your_name">Twoje imie</string>
+    <string name="emptyField">Pole nie może być puste</string>
+</resources>

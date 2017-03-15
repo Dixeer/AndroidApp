@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Aplikacja</string>
+    <string name="app_name">MyApplication</string>
+    <string name="your_name">Your name</string>
+    <string name="emptyField">The field can not be empty</string>
 </resources>
